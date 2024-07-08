@@ -3,7 +3,7 @@
  
  Became a front-end developer after spent a lot of time to learn by myself. Now I still working on and strengthening it🌱.
  
- In my spare time, I have been learning English for two years hoping to find a miraculous remote job in future🔭.
+ In my spare time, I have been learning English for two years hoping to find a miraculous remote job in the future🔭.
 
 <!--
 **weiyafei-add/weiyafei-add** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
