@@ -1,6 +1,8 @@
 ## Hi there 👋
-I'm YaFei, welcome to my blog, I wrote posts there to record life and left tracks to let me back to think.
+I'm yafei, welcome to my blog. I've been a front-end enginner since 2018 and currently working in HangZhou.
 
-So exciting to learn English that I have been spending more time to do. 
+I am used to use React、Vue、Typescript、ANTD、etc to build Web Sites that includes embed-page of mobile-app、enterprise-class high-performence manager system.
 
-Keep learning is my proverb now and always.
+In my spare time, I always learn English and programer-technology to strengthen them.
+
+Never too old to learn is my belief. 
